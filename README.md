@@ -56,8 +56,8 @@ DentalCAD
 | **CMake** | 3.20+ |
 | **Python** | 3.11（内嵌） |
 | **Blender 内核** | 5.0.1 |
-| **源码目录** | `E:\Sinol\Blender\blender-5.0.1` |
-| **构建目录** | `E:\Sinol\Blender\build_dentalcad` |
+| **源码目录** | `E:\Blender\blender-5.0.1` |
+| **构建目录** | `E:\Blender\build_dentalcad` |
 | **输出文件** | `dentalcad.exe` / `dentalcad-launcher.exe` |
 
 ## 快速开始
