@@ -6,7 +6,8 @@
 
 ## 项目概述
 
-### [DentalCAD 使用手册](/user_manual.md)
+### [DentalCAD 使用手册](/user_manual.md)  
+### [完整源码](https://shop.unitos.cn/item/14)
 
 Dorisoy.DentalCAD 是一款面向口腔种植临床场景的三维设计工具。项目以 Blender 5.0.1 为底层 3D 引擎，通过深度裁剪与定制，移除了动画、渲染、合成等非医疗模块，保留高性能三维编辑内核，并规划集成 VTK、ITK、DCMTK、Open3D 等医学计算库，为口腔种植体放置、骨量分析及手术导板设计提供一体化解决方案。
 
